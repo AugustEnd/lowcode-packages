@@ -1,6 +1,6 @@
 {
   "name": "alilc-lowcode-plugin-outline-pane",
-  "version": "1.2.0",
+  "version": "1.0.1",
   "description": "Outline pane for Ali lowCode engine",
   "files": [
     "es",
@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "@alifd/next": "^1.19.16",
-    "alilc-lowcode-designer": "^1.2.0",
-    "alilc-lowcode-editor-core": "^1.2.0",
-    "alilc-lowcode-types": "^1.2.0",
-    "alilc-lowcode-utils": "^1.2.0",
+    "alilc-lowcode-designer": "^1.0.1",
+    "alilc-lowcode-editor-core": "^1.0.1",
+    "alilc-lowcode-types": "^1.0.1",
+    "alilc-lowcode-utils": "^1.0.1",
     "classnames": "^2.2.6",
     "react": "^16",
     "react-dom": "^16.7.0"
@@ -40,5 +40,5 @@
     "type": "http",
     "url": "https://github.com/alibaba/lowcode-engine/tree/main/packages/plugin-outline-pane"
   },
-  "gitHead": "d301a0a6275f4595168a4ff79d4818f48cf709bd"
+  "gitHead": "882611bed60a4dd715e883dc1cb4b1b615e20c6a"
 }

@@ -1,6 +1,6 @@
 {
   "name": "alilc-lowcode-shell",
-  "version": "1.2.0",
+  "version": "1.0.1",
   "description": "Shell Layer for AliLowCodeEngine",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -15,11 +15,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "alilc-lowcode-designer": "^1.2.0",
-    "alilc-lowcode-editor-core": "^1.2.0",
-    "alilc-lowcode-editor-skeleton": "^1.2.0",
-    "alilc-lowcode-types": "^1.2.0",
-    "alilc-lowcode-utils": "^1.2.0",
+    "alilc-lowcode-designer": "^1.0.1",
+    "alilc-lowcode-editor-core": "^1.0.1",
+    "alilc-lowcode-editor-skeleton": "^1.0.1",
+    "alilc-lowcode-types": "^1.0.1",
+    "alilc-lowcode-utils": "^1.0.1",
     "classnames": "^2.2.6",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.5",
@@ -57,5 +57,5 @@
     "type": "http",
     "url": "https://github.com/alibaba/lowcode-engine/tree/main/packages/shell"
   },
-  "gitHead": "d301a0a6275f4595168a4ff79d4818f48cf709bd"
+  "gitHead": "882611bed60a4dd715e883dc1cb4b1b615e20c6a"
 }
