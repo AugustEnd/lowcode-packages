@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+
+
+**Note:** Version bump only for package lowcode-packages
+
+
+
+
+
 # [1.1.0](https://github.com/AugustEnd/lowcode-packages/compare/v1.2.0...v1.1.0) (2022-07-14)
 
 
