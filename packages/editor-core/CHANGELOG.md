@@ -3,24 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-
-
 **Note:** Version bump only for package alilc-lowcode-editor-core
 
-
-
-
-
-# [1.1.0](https://github.com/alibaba/lowcode-engine/compare/v1.2.0...v1.1.0) (2022-07-14)
-
+# [1.1.0](https://github.com/alibaba/lowcode-engine/compare/v1.0.12...v1.1.0) (2022-07-14)
 
 ### Features
 
-* ee ([6ab2f13](https://github.com/alibaba/lowcode-engine/commit/6ab2f131fdabd37d0f753c850f59711bccb10d8d))
-
-
-
-
+- ee ([6ab2f13](https://github.com/alibaba/lowcode-engine/commit/6ab2f131fdabd37d0f753c850f59711bccb10d8d))
 
 # [1.0.1](https://github.com/alibaba/lowcode-engine/compare/v1.1.0...v1.0.1) (2022-07-14)
 
